@@ -31,7 +31,7 @@ export default function Header() {
         {/* Logo */}
         <Link href="/">
           <Image
-            src="/logo.png"
+            src="/logo2.png"
             alt="sensai logo"
             width={200}
             height={60}
